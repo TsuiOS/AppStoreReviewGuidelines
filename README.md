@@ -9,7 +9,8 @@ App Store 审核必备
 
 ### App Store 审核指南
 
-[App Store 审核指南](https://developer.apple.com/app-store/review/guidelines/cn/#accurate-metadata)
+[App Store 审核指南中文版](https://developer.apple.com/app-store/review/guidelines/cn/#accurate-metadata)
+[App Store 审核指南英文版](https://developer.apple.com/app-store/review/guidelines/)
 请对照条例在App Store 审核指南中查找具体原因
 
 ### 加速审核
